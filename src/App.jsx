@@ -1,5 +1,4 @@
 import React from 'react'
-import './App.css'
 import Translator from './compontents/Translator'
 
 function App() {
